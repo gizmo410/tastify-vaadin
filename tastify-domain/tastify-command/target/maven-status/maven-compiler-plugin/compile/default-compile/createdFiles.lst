@@ -1,0 +1,3 @@
+be/coruscantit/tastify/infra/config/DomainConfiguration.class
+be/coruscantit/tastify/domain/review/ReviewCommandHandler.class
+be/coruscantit/tastify/domain/review/ReviewAR.class

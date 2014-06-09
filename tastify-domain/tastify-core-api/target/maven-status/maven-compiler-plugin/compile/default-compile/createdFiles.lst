@@ -1,0 +1,14 @@
+be/coruscantit/tastify/domain/api/place/PlaceType.class
+be/coruscantit/tastify/domain/api/place/PlaceRegistered.class
+be/coruscantit/tastify/domain/api/place/PlaceRegistered$Builder.class
+be/coruscantit/tastify/domain/api/IsBuilder.class
+be/coruscantit/tastify/domain/api/place/Address.class
+be/coruscantit/tastify/domain/api/review/RegisterReview.class
+be/coruscantit/tastify/domain/api/review/RegisterReview$Builder.class
+be/coruscantit/tastify/domain/api/place/PlaceId.class
+be/coruscantit/tastify/domain/api/review/ReviewId.class
+be/coruscantit/tastify/domain/api/place/RegisterPlace.class
+be/coruscantit/tastify/domain/api/place/RegisterPlace$Builder.class
+be/coruscantit/tastify/domain/api/place/Address$Builder.class
+be/coruscantit/tastify/domain/api/review/ReviewRegistered$Builder.class
+be/coruscantit/tastify/domain/api/review/ReviewRegistered.class

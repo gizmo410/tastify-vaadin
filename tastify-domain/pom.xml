@@ -14,6 +14,12 @@
     <name>The Tastify domain</name>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>tastify-core-api</module>
+        <module>tastify-query</module>
+        <module>tastify-command</module>
+    </modules>
+
 
     <dependencies>
 
@@ -27,6 +33,14 @@
             <artifactId>axon-core</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>jsr305</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.inject</groupId>
+            <artifactId>javax.inject</artifactId>
+        </dependency>
 
         <!-- Testing -->
         <dependency>
